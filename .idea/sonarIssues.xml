@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
@@ -48,12 +53,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../GizePay/LatestGizePayMobile/AgentMob/Agent/app/src/main/java/com/example/agent/Volley/SystemUrl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../GizePay/LatestGizePayMobile/CustomerMob/app/build.gradle">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../GizePay/LatestGizePayMobile/CustomerMob/app/src/main/java/digitalwallet/digitalcash/digitalwallet/ui/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GizePay/LatestGizePayMobile/MerchantMob/standAlone/app/src/main/java/liyupay/sam/Volley/SystemUrl.java">
           <value>
             <set />
           </value>
